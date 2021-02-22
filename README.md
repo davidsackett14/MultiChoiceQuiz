@@ -3,31 +3,31 @@
 ### Motivation for this project
 I was excited about this project as it was my initial opportunity to write my own functions and create an interactive website.
 ***
-### Technologies:
-Vanilla JavaScript
-CSS
-HTML
-GitHub
-Visual Studio Code
+### Technologies:</br>
+Vanilla JavaScript</br>
+CSS</br>
+HTML</br>
+GitHub</br>
+Visual Studio Code</br>
 ***
 ### How To:
-Follow this link: 
-Click on the start button
-Finish the quiz before the time runs out
-Time will be subtracted from timer for every wrong answer
-You will be directed to enter your initials to be stored in the local storage for high scores
+Follow this link:  https://davidsackett14.github.io/MultiChoiceQuiz/ </br>
+Click on the start button</br>
+Finish the quiz before the time runs out</br>
+Time will be subtracted from timer for every wrong answer</br>
+You will be directed to enter your initials to be stored in the local storage for high scores</br>
 ***
 ### Credits:
-I used references from www.w3schools.com for help in writing functions, accessing items in an object, understanding key value pairs, and appending nodes
-I also watched multiple youtube videos including the following to get ideas on styling and organization of code:
-https://www.youtube.com/watch?v=LQGTb112N_c
-https://www.youtube.com/watch?v=ubLC1JxMqfY
+I used references from www.w3schools.com for help in writing functions, accessing items in an object, understanding key value pairs, and appending nodes</br>
+I also watched multiple youtube videos including the following to get ideas on styling and organization of code:</br>
+https://www.youtube.com/watch?v=LQGTb112N_c </br>
+https://www.youtube.com/watch?v=ubLC1JxMqfY </br>
 One of the greatest resources was using the activity materials provided by Trilogy Education Services
 ***
 #### Licensing:
-MIT License
+MIT License</br>
 
-Copyright (c) [2021] [David V. Sackett]
+Copyright (c) [2021] [David V. Sackett]</br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
